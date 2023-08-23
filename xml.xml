@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restaurant>
+
+<food categery="1" xmlns:as="http://biryani">
+<as:name>chicken Biryani</as:name>
+<price>500</price>
+<taste>good taste</taste>
+</food>
+
+<food categery="2" xmlns:ds="http://chickenkarahi">
+<ds:name>chicken karahi</ds:name>
+<price>1500</price>
+<taste>spicy</taste>
+</food>
+
+<food categery="3" xmlns:ps="http://daal">
+<ps:name>Daal</ps:name>
+<price>350</price>
+<taste>classy</taste>
+</food>
+
+<food categery="4" xmlns:ts="http://chickenboti">
+<ts:name>chiken boti</ts:name>
+<price>600</price>
+<taste>classy</taste> 
+</food>
+<food categery="5" xmlns:cs="http://chickentikka">
+<cs:name>chicken tikka</cs:name>
+<price>700</price>
+<taste>foody</taste>
+</food>
+
+</restaurant>
